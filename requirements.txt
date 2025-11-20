@@ -1,0 +1,15 @@
+# Midnight Wallet Statistics Fetcher - Dependencies
+
+# Required for fetch_wallet_stats_direct.py (fast method - recommended)
+curl-cffi>=0.5.0
+
+# Required for fetch_wallet_stats.py (browser method - more robust)
+playwright>=1.40.0
+
+# Standard library modules (included with Python 3.11+)
+# - json
+# - asyncio
+# - sys
+# - os
+# - threading
+# - concurrent.futures
