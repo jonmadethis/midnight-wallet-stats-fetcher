@@ -163,12 +163,12 @@ Example output format:
 ```json
 [
   {
-    "address": "0x1234567890123456789012345678901234567890",
+    "address": "addr11234567890123456789012345678901234567890",
     "solutions": 42,
     "night": 123.4567
   },
   {
-    "address": "0xabcdefabcdefabcdefabcdefabcdefabcdefabcd",
+    "address": "addr1abcdefabcdefabcdefabcdefabcdefabcdefabcd",
     "solutions": 0,
     "night": 0
   }
