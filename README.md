@@ -238,4 +238,4 @@ https://scavenger.prod.gd.midnighttge.io/statistics/{address}
 
 Response includes:
 - `local.crypto_receipts` - Number of solutions submitted
-- `local.night_allocation` - NIGHT tokens earned (in micronights, divided by 1,000,000)
+- `local.night_allocation` - NIGHT tokens earned (in stars, night divided by 1,000,000)
