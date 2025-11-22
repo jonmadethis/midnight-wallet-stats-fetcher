@@ -1,3 +1,5 @@
+#==============[ THIS SCRIPT IS NO LONGER FUNCTIONING. THE MIDNIGHT SCAVENGER MINE HAS ENDED. YOU CAN PROBABLY USE IT AS A REFERENCE FOR OTHER MIDNIGHT SCAVENGER MINE CLONES ]==========
+
 # Midnight Wallet Statistics Fetcher
 
 Fetch wallet statistics from the Midnight Scavenger Hunt API. This is a standalone, distributable package that works on any system.
